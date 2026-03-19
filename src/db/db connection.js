@@ -1,4 +1,3 @@
-// проверка соединения
 const sequelize = require('./database.js');
 
 async function testConnection() {
